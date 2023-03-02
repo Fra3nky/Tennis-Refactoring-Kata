@@ -20,3 +20,8 @@ Here is a description of the problem this code is designed to solve: [Tennis Kat
 * Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
 * What would you say to your colleague if they had written this code?
 * What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
+
+
+please install 
+https://github.com/jaedle/test-and-commit-or-revert#installation-through-brew
+https://formulae.brew.sh/cask/dotnet-sdk#default
