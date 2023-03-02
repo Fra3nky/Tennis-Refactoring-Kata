@@ -24,4 +24,5 @@ Here is a description of the problem this code is designed to solve: [Tennis Kat
 
 please install 
 https://github.com/jaedle/test-and-commit-or-revert#installation-through-brew
+
 https://formulae.brew.sh/cask/dotnet-sdk#default
